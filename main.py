@@ -1,12 +1,14 @@
 import math
 
 
+result = 0
+
+
 def calc_test(arg1, arg2):
     global result
     result = arg1 + arg2
     
 
-result = 0
 
 print(result)
 
