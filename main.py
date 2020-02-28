@@ -29,4 +29,23 @@ T = (1, "new", "touple", 2+3)
 print("Printing touple: ")
 print T
 
+print("# ==== ====")
+
+# ============  ============
+
+print("While i < 6 loop: ")
+i = 1
+while ( i < 6 ):
+    i = i + 1
+    print i,
+
+print("---")
+
+print("For i in \"String\" loop: ")
+s = "String"
+for j in s:
+    print j
+
+
+
 
