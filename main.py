@@ -29,7 +29,9 @@ T = (1, "new", "touple", 2+3)
 print("Printing touple: ")
 print T
 
+print("")
 print("# ==== ====")
+print("")
 
 # ============  ============
 
@@ -47,5 +49,7 @@ for j in s:
     print j
 
 
-
+print("For i in ( List ) loop: ")
+for list_item in L:
+    print list_item,
 
